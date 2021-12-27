@@ -1,0 +1,275 @@
+.bigpink{
+	font-family: "pink";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #FF9933;
+}
+.bigboldpink {
+	font-family: "Tahoma";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #FF9933;
+}
+.bigboldpinkul {
+	font-family: "Tahoma";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-decoration: underline;
+	text-transform: none;
+	color: #FF9933;
+}
+
+
+
+.bigboldgreen {
+	font-family: "Tahoma";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #74B46A;
+}
+.bigboldgreen_ul {
+	font-family: "Tahoma";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-decoration: none;
+	text-transform: none;
+	color: #74B46A;
+}
+
+
+.biggreen {
+	font-family: "Tahoma";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #74B46A;
+}
+
+.smallboldopink
+ {
+	font-family: "Tahoma";
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	font-weight: bold;
+	color: #FF9933;
+}
+
+.smallpink
+ {
+	font-family: "Tahoma";
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	color: #FF9933;
+}
+
+.smallboldgreen
+ {
+	font-family: "Tahoma";
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #74B46A;
+}
+
+.smallgreen
+ {
+	font-family: "Tahoma";
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #74B46A;
+}
+
+.bigboldwhite {
+	font-family: "tahoma";
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #ffffff;
+}
+
+.bigwhite {
+	font-family: "tahoma";
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #ffffff;
+}
+
+.bigboldblack {
+	font-family: "Tahoma";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+}
+
+.bigblack{
+	font-family: "Tahoma";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	line-height: 1.5;
+}
+
+.smallboldblack
+ {
+	font-family: "Tahoma";
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	font-weight: bold;
+	color: #000000;
+}
+.setsize{
+	WIDTH: 200px;
+}
+.smallblack
+ {
+	font-family: "Tahoma";
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	color: #000000;
+}
+.infoBoxContents {
+  background: #FFFFFF;
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 10px;
+}
+
+.infoBox {
+  background: #D3D1D1;
+  }
+.Buttonpink
+{
+	BORDER-RIGHT: #794800 1px solid; 
+	BORDER-TOP: #794800 1px solid; 
+	BORDER-LEFT: #794800 1px solid; 
+	BORDER-BOTTOM: #794800 1px solid;
+	BACKGROUND: #FFE8C6; 
+	COLOR: #E68A00;
+	FONT: bold 11px Tahoma;
+}
+
+  .Buttongreen
+{
+	BORDER-RIGHT: #2D4E27 1px solid; 
+	BORDER-TOP: #2D4E27 1px solid; 
+	BORDER-LEFT: #2D4E27 1px solid; 
+	BORDER-BOTTOM: #2D4E27 1px solid;
+	BACKGROUND: #D5E8D2; 
+	COLOR: #417238;
+	FONT: bold 11px Tahoma;
+}
+
+.Buttonblack
+{
+	BORDER-RIGHT: #adadad 1px solid; 
+	BORDER-TOP: #adadad 1px solid; 
+	BORDER-LEFT: #adadad 1px solid; 
+	BORDER-BOTTOM: #adadad 1px solid;
+	BACKGROUND: #ddd; 
+	FONT: bold 11px Tahoma;
+}
+.Buttonwhite
+{
+	BORDER-RIGHT: #adadad 1px solid; 
+	BORDER-TOP: #adadad 1px solid; 
+	BORDER-LEFT: #adadad 1px solid; 
+	BORDER-BOTTOM: #adadad 1px solid;
+	BACKGROUND: #ffffff; 
+	FONT:11px Tahoma;
+}
+.Buttonwhitecomb
+{
+	BORDER-RIGHT: #adadad 1px solid; 
+	BORDER-TOP: #adadad 1px solid; 
+	BORDER-LEFT: #adadad 1px solid; 
+	BORDER-BOTTOM: #adadad 1px solid;
+	BACKGROUND: #ffffff; 
+	FONT:11px Tahoma;
+	WIDTH: 155px;
+}
+.PageHeading{
+	font-family: "Tahoma";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #0064C8;
+}
+.requiredfield
+ {
+	font-family: "Tahoma";
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	font-weight: bold;
+	color: #FF0000;
+}
+.BorderOfTable
+{
+	BORDER-RIGHT: #adadaa 1px solid; 
+	BORDER-TOP: #adadad 1px solid; 
+	BORDER-LEFT: #adadad 1px solid; 
+	BORDER-BOTTOM: #adadad 1px solid;
+}
+.combsize{
+	WIDTH: 155px;
+}
